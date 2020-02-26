@@ -1,4 +1,4 @@
-# anes_2016
+# anes analysis toolkit
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbartonthomas/anes_2016/master?filepath=anes_2019_analysis.ipynb)
 
