@@ -5,4 +5,4 @@ seaborn
 autopep8
 statsmodels
 prettytable
-
+pyreadstat
